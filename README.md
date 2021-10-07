@@ -1,0 +1,1 @@
+This is Legacy's first git project.
